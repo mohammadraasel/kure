@@ -60,7 +60,7 @@ scoop install GGP1/kure
 or
 
 ```
-scoop install https://raw.githubusercontent.com/GGP1/scoop-bucket/master/bucket/kure.json
+scoop install https://raw.githubusercontent.com/GGP1/scoop-bucket/master/kure.json
 ```
 
 #### Docker
